@@ -1,0 +1,46 @@
+/* add your CSS here */
+
+.card{
+    border:0.3px solid gray;
+    box-shadow: 1.5px 3px;
+    margin:5px;
+    width:315px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:aqua;
+    
+}
+h3{
+    margin: 0.5em;
+}
+img{
+    margin:0.5em;
+    width:300px;
+    height:300px;
+}
+p{
+    padding:0.5em;
+    font-style: normal;
+}
+.italics{
+    font-style:italic;
+}
+.box{
+    border:0.3px solid gray;
+    margin:0.5em;
+    width: 300px;
+    background-color:pink;
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    width:300px;
+    border: 10px;
+    padding:0.5em;
+}
+li{
+    list-style: none;
+    width:300px;
+    
+}
